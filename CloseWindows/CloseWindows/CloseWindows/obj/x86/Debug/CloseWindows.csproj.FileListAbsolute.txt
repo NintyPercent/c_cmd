@@ -1,0 +1,15 @@
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.exe
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.pdb
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Mainform.resources
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Properties.Resources.resources
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csproj.GenerateResource.Cache
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.exe
+G:\SVNTEST\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.pdb
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.exe
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.pdb
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.exe
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.pdb
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csprojResolveAssemblyReference.cache
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Mainform.resources
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Properties.Resources.resources
+D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csproj.GenerateResource.Cache
