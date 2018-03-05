@@ -13,3 +13,11 @@ D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.cs
 D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Mainform.resources
 D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Properties.Resources.resources
 D:\C#编程\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csproj.GenerateResource.Cache
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.exe
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.pdb
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.exe
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\bin\Debug\CloseWindows.pdb
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csprojResolveAssemblyReference.cache
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Mainform.resources
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.Properties.Resources.resources
+D:\GITHUB\c_cmd\c_cmd\CloseWindows\CloseWindows\CloseWindows\obj\x86\Debug\CloseWindows.csproj.GenerateResource.Cache
