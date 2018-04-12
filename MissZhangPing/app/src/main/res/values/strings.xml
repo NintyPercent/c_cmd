@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MissZhangPing</string>
+    <string name="tvStNumber">学号</string>
+    <string name="etStNumber">输入学号</string>
+    <string name="txPassword">密码</string>
+    <string name="etPassword">输入密码</string>
+    <string name="btLogin">登录</string>
+    <string name="btLogin2">注册</string>
+    <string name="inputStNumber">请输入学号</string>
+    <string name="inputPassword">请输入密码</string>
+</resources>
